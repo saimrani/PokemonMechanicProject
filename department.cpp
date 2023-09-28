@@ -1,10 +1,3 @@
-/*
-Author: Saim Imran
-Course: CSCI-135
-Instructor: Maryash
-Assignment: PROJECT 3B
-*/
-
 #include "department.hpp"
 using namespace std;
 
