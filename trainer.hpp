@@ -1,10 +1,3 @@
-/*
-Author: Saim Imran
-Course: CSCI-135
-Instructor: Maryash
-Assignment: PROJECT 3B
-*/
-
 #ifndef TRAINER_HPP
 #define TRAINER_HPP
 #include "profemon.hpp"
