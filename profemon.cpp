@@ -1,10 +1,3 @@
-/*
-Author: Saim Imran
-Course: CSCI-135
-Instructor: Maryash
-Assignment: PROJECT 3A
-*/
-
 #include "profemon.hpp"
 #include "skill.hpp"
 #include <iostream>
